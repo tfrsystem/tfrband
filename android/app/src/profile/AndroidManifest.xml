@@ -1,7 +1,8 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="fitness.test.tfrband.tfr_band">
+<manifest 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fitness.tfr.test.tfrband">
     <!-- Flutter needs it to communicate with the running application
-         to allow setting breakpoints, to provide hot reload, etc.
-    -->
+         to allow setting breakpoints, to provide hot reload, etc. -->
+         
     <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>

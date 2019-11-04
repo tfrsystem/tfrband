@@ -1,4 +1,4 @@
-package fitness.test.tfrband.tfr_band;
+package fitness.tfr.test.tfrband;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
